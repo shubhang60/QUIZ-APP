@@ -3,16 +3,16 @@
  # OUTPUT
 
  My first question looks like:
- <img src="images/Screenshot(150).png">
-here i select blue
+ ![]("images/Screenshot(150).png")
+here i select blue.
 
 My second  question looks like:
-<img src="images/Screenshot(151).png">
-here i select goat
+![]("images/Screenshot(151).png")
+here i select goat.
 
 My third  question looks like:
-<img src="images/Screenshot(152).png">
-here i select football
+![]("images/Screenshot(152).png")
+here i select football.
 
 final image shows the quality of yours on the basis of your choosen answers.
 Every option has score associated with it .
